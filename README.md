@@ -20,38 +20,6 @@ Be sure to only analyse content which you have authorised access to. The logs I 
 * **Input:** Log files in `.txt` format
 * **Output:** Console reports, analysis results, results in the JSON file
 
-> Update this section with the exact technologies and libraries used in your project.
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/malaikawaqasarshad/Log-Analyser.git
-cd YOUR_REPOSITORY
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run the analyser with:
-
-```bash
-python main.py path/to/your/logfile.log
-```
-
-Example:
-
-```bash
-python main.py logs/application.log
-```
-
-The analyser will process the log file and provide a summary of the information it finds.
 
 ### Example Output
 
