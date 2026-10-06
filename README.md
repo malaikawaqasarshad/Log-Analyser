@@ -3,6 +3,9 @@ A lightweight log analysis tool designed to analyse and extract useful insights 
 The project helps identify suspicious log activity.
 Be sure to only analyse content which you have authorised access to. The logs I analysed were hypothetical.
 
+## Preview
+<img width="364" height="415" alt="image" src="https://github.com/user-attachments/assets/3e595aec-e70e-4d68-9dc9-6b65b262f6b4" />
+
 ## Features
 
 * Parse log files efficiently
